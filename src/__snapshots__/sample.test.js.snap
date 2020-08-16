@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  redux: 
+  mono
+  <div>
+    otraVaina
+  </div>
+  <div
+    onClick={[Function]}
+  >
+     add todo 
+  </div>
+  <div
+    onClick={[Function]}
+  >
+     greet 
+  </div>
+</div>
+`;
